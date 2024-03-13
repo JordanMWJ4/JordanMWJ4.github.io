@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Jordanfile"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Group_Intro_Project/Jordan.md"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cor-web-ft-02-2024"
+	}
+}
